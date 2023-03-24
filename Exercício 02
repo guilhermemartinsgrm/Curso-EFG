@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-br"
+  <head>
+    <meta http-equiv="Content-tipe" content="text/html ; charset=UTF-8">
+    <title> Lista de Clientes - Marketing Digital</title>
+    <br>
+  </head>
+  <body>
+    <address>
+      NOME: Guilherme Rodrigues Martins
+      E-MAIL: guilhhermer@gmail.com
+      CARGO: Sócio Fundador CEO
+      ENDEREÇO: Rua da Charita, Quadra 137, Lote 12. Jardim Atlantico. Goiânia Goias.
+      CEP: 74.843-390
+    </address>
+    <br>
+    <address>
+      NOME: Marcos Oliveira da Silva Martins
+      E-MAIL: marcos.oliv@gmail.com
+      CARGO: Sócio Fundador CEO
+      ENDEREÇO: Rua da Charita, Quadra 137, Lote 12. Jardim Atlantico. Goiânia Goias.
+      CEP: 74.843-390
+    </address>
+  </body>
+</html>
