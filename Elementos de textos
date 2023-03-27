@@ -1,0 +1,24 @@
+<!DOCTYPE htm5>
+<html lang="pt-br">
+    <head>
+        <meta http-equiv="Content-tipe" content="text/html" ; charset="UTF-8">
+        <title> Tamanho de Texto e Titulo </title>
+    </head>
+    <body>
+        <h1>Elemento de texto</h1>
+        <h2>Elemento de texto</h2>
+        <h3>Elemento de texto</h3>
+        <h4>Elemento de texto</h4>
+        <h5>Elemento de texto</h5>
+        <h6>Elemento de texto</h6>
+        <br>
+        <b>Elemento de texto em Negrito</b>
+        <i>Elemento de texto em Itálico</i>
+        <u>Elemento de texto sublinhado</u>
+        <sup>Elemento de texto sobrescrito</sup>
+        <sub>Elemento de texto subscrito</sub>
+        <br>
+        <p> Parágrafo é uma unidade autossuficiente de um discurso, na escrita, que lida com um ponto de vista ou ideia particular. Seu símbolo é §, apresentando a forma de dois esses entrelaçados, que representam as iniciais das palavras latinas signumsectionis.</p>
+        <br>
+    </body>
+</html>
