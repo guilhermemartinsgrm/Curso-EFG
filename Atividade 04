@@ -1,0 +1,76 @@
+<!doctype >
+<html lang="pt-br">
+    <head> 
+    <meta http-equiv="Content-tipe" content="text/html" charset="UTF-8">
+    <title> Cores na Psicologia no HTML </title>
+
+    </head>
+    
+    <body>
+        <h2> VERMELHO </h2>
+            <p>Essa cor primária está ligada ao dinamismo, ou seja, a vontade de se movimentar e agir. Experiências mostram que o vermelho tem a <b>capacidade de estimular o corpo humano,</b> fazendo com que ocorra um aumento na pressão sanguínea e do número de batimentos cardíacos, por exemplo. É uma cor usada para transmitir a sensação de alta intensidade e confiança. Entre as emoções relacionadas com esta cor, destaque para:
+            <br>
+            - Raiva;<br>
+            - Paixão;<br>
+            - Ira;<br>
+            - Calor;<br>
+            - Perigo;<br>
+            - Violência;<br>
+            - Fúria;<br>
+            - Excitação.
+        </p>
+        <h2> AMARELO </h2>
+            <p>Por ser uma cor quente, o amarelo também transmite a sensação de dinamismo e estímulo. É considerada a cor do otimismo e da energia, segundo a psicologia das cores. Tem ainda a capacidade de estimular a <b>concentração e o intelecto</b> das pessoas.
+            <br>
+            Outra sensação associada a esta cor é o de conforto e felicidade. Entre alguns dos sentimentos que o amarelo também está relacionado, destaque para:
+            <br>
+            - Sabedoria;<br>
+            - Alegria;<br>
+            - Otimismo;<br>
+            - Inveja;<br>
+            - Doença;<br>
+            - Idealismo;<br>
+            - Covardia. <br>
+        </p>
+        <h2> LARANJA </h2>
+            <p>O laranja é uma cor secundária que, assim como o vermelho, também transmite a ideia de <b>movimento,</b> excitação e desejo de ação. Mas, diferente do primeiro, o laranja não chega a ser tão impactante.
+            <br>
+            A psicologia das cores atribui a sensação de alegria, sociabilidade e animação para o laranja. Entre outros sentimentos relacionados a esta cor, destaque para:
+            <br>
+            - Humor;<br>
+            - Energia;<br>
+            - Calor;<br>
+            - Extravagância;<br>
+            - Entusiasmo;<br>
+            - Amigabilidade.<br>
+        </p>
+        <h2>ROXO</h2>
+            <p> Essa cor atua <b>diretamente na área cerebral destinada à criatividade</b>, ou seja, promove um estímulo para a solução de "bloqueios criativos".
+            <br>
+            Além disso, a sensação de calmaria e tranquilidade também estão relacionados com o roxo. Por essa razão, vários temas espirituais e ligados à fé são representados com esta cor.
+            <br>
+            O roxo ainda representa a imagem do sucesso, da nobreza e da riqueza. Entre outras relações, destaque para:
+            <br>
+            - Erotismo;<br>
+            - Mistério;<br>
+            - Sabedoria;<br>
+            - Arrogância;<br>
+            - Sensibilidade;<br>
+            - Intimidade.<br>
+        </p>
+        <h2> AZUL</h2>
+            <p>O azul transmite a ideia de <b>calma, serenidade e tranquilidade.</b> Por esse motivo, costuma ser comum o seu uso para representar profissionalismo, estabilidade e segurança.
+            <br>
+            Alguns dos sentimentos que estão relacionados com a cor azul, de acordo com a psicologia das cores, são:
+            <br>
+            - Lealdade;<br>
+            - Tranquilidade;<br>
+            - Harmonia;<br>
+            - Confiança;<br>
+            - impeza;<br>
+            - Frio;<br>
+            - Depressão.<br>
+         </p>
+    </body>
+    </head>
+</html>
