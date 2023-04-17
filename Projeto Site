@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+  <html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Agencia artwork">
+    <meta name="keywords" content="Marketing, Vendas, trafego, engajamento">
+    <link rel="styles" href="css/estilo.css">
+    <link rel="stylesheet" href="css/responsivo.css">
+    <title> Agencia ArtWork</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <h1>Art wort</h1>
+        </div>
+        <div class="Menu">
+            
+        </div>
+    </nav>
+</body>
