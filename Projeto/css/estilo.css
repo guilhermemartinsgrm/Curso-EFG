@@ -67,3 +67,4 @@ contact-btn{display: inline-block;
 .contact-btn:hover{background: #180f4a;}
 
 .img-headline{margin-right: 10%;}
+              {flex:40%; /*border:1px solid black;*/ text-aling:center:}
