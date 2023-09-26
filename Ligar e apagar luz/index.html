@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function trocaimagem() {
+            var elemento = document.getElementById("myimage");
+            if (elemento.src.match("bulbon")) {
+                elemento.src = "pic_bulboff.jpg";
+            } else {
+                elemento.src = "pic_bulbon.jpg";
+            }
+        }
+    </script>
+    <p>
+        <img id="myimage" onclick="trocaimagem()" src="pic_bulboff.jpg">
+    </p>
+    <p> Clique na lâmpada para ligar e desligar a luz.</p>
+</body>
+</html>
